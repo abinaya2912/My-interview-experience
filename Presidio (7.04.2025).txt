@@ -1,0 +1,28 @@
+Presidio (7.04.2025)
+1.Aptitude-(Done)
+2.SQL -(Done)
+3.code snippet(oops)
+4.linux command
+5.shell script
+8. coding 2( count no.of keyboard slot, array fractorial)
+9.sql(1.%m%, max)
+10.code snippet(steps seconds)
+
+
+Code Magen(10.04.2024)
+1. frontend (react,javasript,javascript coding)
+2.backend(java,oops,sql)
+  coding 2(find count for pairs if(a[i]+a[j] % k ==0 , matrix)
+3.coding round(java)
+4.application building(java springboot)
+   1. i need more to learn about springbooot
+
+CDW(Sirius)
+1.Aptitude(aps,OS,ds,sql,cn)
+
+
+Skillumni (Placed)
+1.resume selection
+2.HR(sales and marketing)
+
+
