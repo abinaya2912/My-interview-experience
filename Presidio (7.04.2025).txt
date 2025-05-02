@@ -21,8 +21,17 @@ CDW(Sirius)
 1.Aptitude(aps,OS,ds,sql,cn)
 
 
-Skillumni (Placed)
+Skillumni 
 1.resume selection
 2.HR(sales and marketing)
+
+Workhall
+
+1. aptitude,coding(written)
+2.techical (html,css,binary search,pattern)
+
+
+
+
 
 
